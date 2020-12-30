@@ -29,7 +29,7 @@ else if(ch==2)
 {
   x=del(&Q);
   if(x!=-1)
-    printf("\nRemoved element: %d",x);
+    printf("\nRemoved element: %d\n",x);
 }
 else if(ch==3)
   exit(0);
